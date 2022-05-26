@@ -53,10 +53,11 @@ body {
 	background-color: transparent;
 	padding: 1em;
 	border: 2px solid var(--branco-principal);
+	color: var(--branco-principal);
 	display: block;
 	text-decoration: none;
 	margin-bottom: 1em;
- 
+
 }
 
 .container__aviso {
@@ -76,4 +77,27 @@ body {
 
 .caixa{
 	margin: 0 6em;
+}
+
+.secundario{
+	align-items: center;
+	margin: 0 8em;
+}
+
+
+.secundario_imagem{
+	width: 70%;
+}
+
+.container_descricao{
+	align-items: center;
+}
+
+.descricao_titulo{
+font-weight: 700;
+font-size: 48px;
+}
+
+.descricao_texto{
+
 }
