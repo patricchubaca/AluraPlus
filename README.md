@@ -1,3 +1,3 @@
 # AluraPlus
 
-Projetos para exercitar a criação de leyouts.
+Projetos para exercitar a criação de layouts.
